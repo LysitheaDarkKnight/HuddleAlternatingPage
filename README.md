@@ -23,7 +23,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: (https://your-solution-url.com)
+- Solution URL: (https://www.frontendmentor.io/solutions/huddle-alternating-page-flexbox-grid-and-sass-z1HRijhi41)
 - Live Site URL: (https://lysitheadarkknight.github.io/HuddleAlternatingPage/)
 
 ## My process
