@@ -301,8 +301,6 @@ p{
   padding: 50px 50px 100px 50px;
   .card{
     @include set-flex($flex-direction: column-reverse, $align-items: center, $justify-content: center);
-    grid-template-columns: 1fr;
-    grid-template-rows: 1fr;
     padding: 50px 30px;
     height: 500px;
     &__text{
